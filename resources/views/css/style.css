@@ -1,0 +1,45 @@
+
+body#index
+{
+  background: fixed url('/image/background.jpg');
+  background-size:cover;
+  background-repeat: no-repeat;
+  font-family: cursive;
+}
+#nav
+{
+  font-size: 15px
+
+}
+
+.intro-message > h1 {
+  text-shadow: 2px 1px 2px #000;
+  font-size: 30px;
+  color:white;
+}
+.intro-divider
+{
+  width: 400px;
+  border-top: 1px solid #f8f8f8;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+h1
+ {
+  padding: 0;
+  font-size:20px
+}
+h3
+{
+  color: white;
+  font-size: 20px;
+}
+.intro-message {
+  position: relative;
+  padding-top: 20%;
+
+}
+#lien
+{
+  padding-left: 40%;
+  padding-top: 1%;
+}
